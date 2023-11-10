@@ -1,18 +1,16 @@
 [{
-		"name": "LTunes",
-		"icon": "https://ltunes.gq/assets/Logo.png",
+		"name": "Proxy",
+		"icon": "https://windowsonline.internetproxy.repl.co/public/img/asset/hu3icon.png",
 		"type": "app",
 		"data": {
 			"type": "IFrame",
-			"url": "https://ltunes.gq",
-			"invert": false,
+			"url": "https://my-discord-bot.internetproxy.repl.co/",
 			"gallery": [
-				"https://ltunes.gq/assets/Logo.png",
-				"https://ltunes.gq/assets/Logo.png",
-				"https://ltunes.gq/assets/Logo.png"
+				"https://windowsonline.internetproxy.repl.co/public/img/asset/hu1.png",
+				"https://windowsonline.internetproxy.repl.co/public/img/asset/hu2.png"
 			],
-			"desc": "A music, radio, and podcast app.",
-			"feat": "music, radio, podcasts."
+			"desc": "A remixed version of Ludicrous by Holy Unblocker made to run smoother, and look cleaner!",
+			"feat": "Bypass the restrictions of the internet!"
 		}
 	},
 	{
@@ -45,21 +43,22 @@
 			"feat": "Use Android inside of Windows 11."
 		}
 	},
- 
- 	{
-		"name": "Proxy",
-		"icon": "https://windowsonline.internetproxy.repl.co/public/img/asset/hu3icon.png",
+
+	{
+		"name": "LTunes",
+		"icon": "https://ltunes.gq/assets/Logo.png",
 		"type": "app",
 		"data": {
 			"type": "IFrame",
-			"url": "https://ludicrous.internetproxy.repl.co",
+			"url": "https://ltunes.gq",
+			"invert": false,
 			"gallery": [
-				"https://windowsonline.internetproxy.repl.co/public/img/asset/hu1.png",
-				"https://windowsonline.internetproxy.repl.co/public/img/asset/hu2.png"
+				"https://ltunes.gq/assets/Logo.png",
+				"https://ltunes.gq/assets/Logo.png",
+				"https://ltunes.gq/assets/Logo.png"
 			],
-			"desc": "A recreation of Android by Blueedge.",
-			"feat": "Use Android inside of Windows 11."
-		}
+			"desc": "A music, radio, and podcast app.",
+			"feat": "music, radio, podcasts."
 	},
 
  	{
